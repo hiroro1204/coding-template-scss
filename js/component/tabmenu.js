@@ -1,3 +1,6 @@
+/**
+ * タブメニュー
+ */
 export const initializeTabMenu = () => {
-    console.log("tabmenu");
+  console.log("tabmenu");
 };

@@ -1,3 +1,6 @@
+/**
+ * アコーディオン
+ */
 export const initializeAccordion = () => {
-    console.log("accordion");
+  console.log("accordion");
 };

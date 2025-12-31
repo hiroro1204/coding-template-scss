@@ -1,3 +1,6 @@
+/**
+ * ドロップダウンメニュー
+ */
 export const initializeDropdownMenu = () => {
-    console.log("dropdownmenu");
+  console.log("dropdownmenu");
 };

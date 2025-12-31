@@ -1,3 +1,6 @@
+/**
+ * モーダル
+ */
 export const initializeModal = () => {
-    console.log("modal");
+  console.log("modal");
 };
